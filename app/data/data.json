@@ -1,0 +1,122 @@
+{
+  "HelloThere": {
+    "color": "blue",
+    "filename": "hellothere.mp3",
+    "name": "Hello There",
+    "isFavorite": false
+  },
+  "MadaMada": {
+    "color": "green",
+    "filename": "mada_mada.mp3",
+    "isFavorite": true,
+    "name": "Mada Mada"
+  },
+  "WindowsShutdown": {
+    "color": "gold",
+    "filename": "windows_shutdown.mp3",
+    "name": "Windows Shutdown",
+    "isFavorite": false
+  },
+  "DunDun": {
+    "color": "red",
+    "filename": "dun_dun.mp3",
+    "name": "Dun Dun",
+    "isFavorite": false
+  },
+  "ErrorXP": {
+    "color": "red",
+    "filename": "error_xp.mp3",
+    "name": "Error XP",
+    "isFavorite": false
+  },
+  "fbi": {
+    "color": "blue",
+    "filename": "fbi-open-up.mp3",
+    "name": "FBI Open Up",
+    "isFavorite": false
+  },
+  "Hitmarker": {
+    "color": "gold",
+    "filename": "hitmarker.mp3",
+    "name": "Hitmarker",
+    "isFavorite": false
+  },
+  "Sights": {
+    "color": "red",
+    "filename": "i_got_you_in_my_sights.mp3",
+    "name": "Soldier 76",
+    "isFavorite": false
+  },
+  "i_need_healing": {
+    "color": "green",
+    "filename": "i_need_healing.mp3",
+    "name": "I need Healing",
+    "isFavorite": false
+  },
+  "mgsAlert": {
+    "color": "red",
+    "filename": "mgs_alert.mp3",
+    "name": "MGS Alert",
+    "isFavorite": false
+  },
+  "MissionFailed": {
+    "color": "red",
+    "filename": "mission_failed.mp3",
+    "name": "Mission Failed",
+    "isFavorite": false
+  },
+  "ossas": {
+    "color": "green",
+    "filename": "ossas.mp3",
+    "name": "Ossas",
+    "isFavorite": false
+  },
+  "r2d2": {
+    "color": "blue",
+    "filename": "r2d2_scream.mp3",
+    "name": "R2D2 Scream",
+    "isFavorite": false
+  },
+  "shrek": {
+    "color": "green",
+    "filename": "shrek.mp3",
+    "name": "Shrek",
+    "isFavorite": false
+  },
+  "Snoop": {
+    "color": "green",
+    "filename": "snoop-dogg.mp3",
+    "name": "Snoop Dogg",
+    "isFavorite": false
+  },
+  "Visor": {
+    "color": "blue",
+    "filename": "tactical_visor_activated.mp3",
+    "name": "Tactical Visor",
+    "isFavorite": false
+  },
+  "WhyAreWeHere": {
+    "color": "gold",
+    "filename": "why_are_we_here.mp3",
+    "name": "Why Are we Here",
+    "isFavorite": false
+  },
+  "WhyRunning": {
+    "color": "green",
+    "filename": "why_are_you_running.mp3",
+    "name": "Why Running",
+    "isFavorite": false
+  },
+  "Wilhelm": {
+    "color": "red",
+    "filename": "wilhelm_scream.mp3",
+    "name": "Wilhelm Scream",
+    "isFavorite": false
+  },
+  "ZeldaSecret": {
+    "color": "green",
+    "filename": "zelda_secret.mp3",
+    "name": "Zelda Secret",
+    "isFavorite": false
+  }
+}
