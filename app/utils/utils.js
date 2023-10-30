@@ -28,8 +28,6 @@ utils.getFile = (mp3) => {
       return require('../../assets/sounds/ossas.mp3')
     case "r2d2_scream.mp3":
       return require('../../assets/sounds/r2d2_scream.mp3')
-    case "roblox-death-sound-effect.mp3":
-      return require('../../assets/sounds/roblox-death-sound-effect.mp3')
     case "snoop-dogg.mp3":
       return require('../../assets/sounds/snoop-dogg.mp3')
     case "tactical_visor_activated.mp3":
